@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<jck2183@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/jck2183-Chia-wen-Kao/
+output:
+  html_document:
+    theme: cerulean
