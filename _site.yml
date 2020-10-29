@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/jck2183-Chia-wen-Kao/
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
